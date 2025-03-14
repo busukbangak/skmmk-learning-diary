@@ -1,0 +1,15 @@
+{
+  "name": "skmmk-learning-diary",
+  "version": "1.0.0",
+  "description": "sicherheitskritische mensch-computer-kooperation",
+  "scripts": {
+    "dev": "vitepress dev src",
+    "build": "vitepress build src",
+    "serve": "vitepress serve src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^0.13.0"
+  }
+}
